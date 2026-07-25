@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="773cd143-7f8f-4f9c-9dc2-aad9dbb0c5b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonProject6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matala 7.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matala 7.2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="7" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000075965947" />
+      <entry key="S2" value="1.0093430991534025" />
+      <entry key="S5" value="1.162977649769247" />
+      <entry key="S10" value="1.488696995506769" />
+      <entry key="S30" value="2.5246040931928744" />
+      <entry key="S60" value="4.268203789307455" />
+      <entry key="M2" value="8.38870710255167" />
+      <entry key="M5" value="18.252783096359625" />
+      <entry key="M10" value="25.997682003775324" />
+      <entry key="M15" value="29.58999174163436" />
+      <entry key="M30" value="33.87368497197445" />
+      <entry key="H1" value="36.32076707269658" />
+      <entry key="H2" value="37.62989372775617" />
+      <entry key="H4" value="38.30713190376801" />
+      <entry key="D1" value="38.88341981440757" />
+      <entry key="W1" value="38.98331847445602" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.400853563154757E-107" />
+      <entry key="S2" value="1.9346311882927553E-27" />
+      <entry key="S5" value="2.0636653581160648E-11" />
+      <entry key="S10" value="4.5427583670233495E-6" />
+      <entry key="S30" value="0.016561762240582534" />
+      <entry key="S60" value="0.12869251042924962" />
+      <entry key="M2" value="0.3587373836516759" />
+      <entry key="M5" value="0.6636065355940566" />
+      <entry key="M10" value="0.814620485621407" />
+      <entry key="M15" value="0.8722417790029707" />
+      <entry key="M30" value="0.9339388518543228" />
+      <entry key="H1" value="0.9664051178746536" />
+      <entry key="H2" value="0.9830590612341933" />
+      <entry key="H4" value="0.9914933490620061" />
+      <entry key="D1" value="0.9985771733456099" />
+      <entry key="W1" value="0.9997966149950492" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8705505632961241" />
+      <entry key="MS500" value="0.972654947565047" />
+      <entry key="S2" value="0.9966127790643677" />
+      <entry key="S5" value="1.1089234513814534" />
+      <entry key="S10" value="1.4092998464644284" />
+      <entry key="S30" value="2.456853943589335" />
+      <entry key="S60" value="4.3017116635077945" />
+      <entry key="M2" value="8.648351928671683" />
+      <entry key="M5" value="18.839049454606762" />
+      <entry key="M10" value="26.760928972146903" />
+      <entry key="M15" value="30.424264095383624" />
+      <entry key="M30" value="34.786481337093335" />
+      <entry key="H1" value="37.27599680373503" />
+      <entry key="H2" value="38.6072050801823" />
+      <entry key="H4" value="39.29571021096957" />
+      <entry key="D1" value="39.88150532351644" />
+      <entry key="W1" value="39.98304470770667" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3H0zScxq5ppTcvVMGoBjZlHl35e" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.matala 7.1.executor": "Run",
+    "Python.matala 7.2.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/yehonatandayan/PycharmProjects/PythonProject6",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="773cd143-7f8f-4f9c-9dc2-aad9dbb0c5b2" name="Changes" comment="" />
+      <created>1785019776389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1785019776389</updated>
+      <workItem from="1785019777441" duration="840000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProject6$matala_7_1.coverage" NAME="matala 7.1 Coverage Results" MODIFIED="1785020081483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject6$matala_7_2.coverage" NAME="matala 7.2 Coverage Results" MODIFIED="1785020523994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+  </component>
+</project>
